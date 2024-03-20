@@ -2,54 +2,8 @@ thank you for downloading the simulator. Simply copy the whole folder somewhere 
 and run the executable application. 
 
 Jump below if you are panicking /
-/
-/
-/
-/
-//
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+
+
 This was a harmless "ransomware" that is spreading the gospel.
 but ok, ok. you've confessed. you have to ask the Lord for forgiveness now. Simply input 
 "Forgive me Father" into the confession box and your files will be returned to you. If 
